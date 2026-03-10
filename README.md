@@ -2,7 +2,7 @@
 
 ## Information
 
-This was used in October 2025 and worked fine, but I am not sure if still is usable, I just published after people were interested in this [YamTrack issue](https://github.com/FuzzyGrim/Yamtrack/issues/957)
+>This was used in October 2025 and worked fine, but I am not sure if still is usable, I just published after people were interested in this [YamTrack issue](https://github.com/FuzzyGrim/Yamtrack/issues/957)
 
 This is a personal project, that could be interesting for other people in the same situation as I was.
 
