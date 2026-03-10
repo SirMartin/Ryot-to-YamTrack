@@ -2,6 +2,8 @@
 
 ## Information
 
+This was used in October 2025 and worked fine, but I am not sure if still is usable, I just published after people were interested in this [YamTrack issue](https://github.com/FuzzyGrim/Yamtrack/issues/957)
+
 This is a personal project, that could be interesting for other people in the same situation as I was.
 
 I used [Ryot](https://github.com/IgnisDa/ryot) for some time but after I discover [YamTrack](https://github.com/FuzzyGrim/Yamtrack) and tried I wanted to move my TV Shows data.
