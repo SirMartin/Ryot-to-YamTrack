@@ -1,0 +1,15 @@
+{
+  "name": "ryot-to-yamtrack",
+  "version": "1.0.0",
+  "description": "Small script to convert Ryot's JSON export of his TV Show collection into a format that can be imported into YamTrack via CSV specific format.",
+  "main": "ryot-to-yamtrack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.2",
+    "node-themoviedb": "^0.2.8"
+  }
+}
